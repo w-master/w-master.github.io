@@ -5,9 +5,28 @@
     <link>http://w-master.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 29 Dec 2019 16:37:28 +0800</lastBuildDate>
     
 	<atom:link href="http://w-master.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First</title>
+      <link>http://w-master.github.io/post/first/</link>
+      <pubDate>Sun, 29 Dec 2019 16:37:28 +0800</pubDate>
+      
+      <guid>http://w-master.github.io/post/first/</guid>
+      <description> ssadhfksaf dsafasdfas asdfasdf a fdasf asdf a sf as fsad f af as df as df asd   </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://w-master.github.io/about/</link>
+      <pubDate>Sun, 29 Dec 2019 16:35:53 +0800</pubDate>
+      
+      <guid>http://w-master.github.io/about/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
